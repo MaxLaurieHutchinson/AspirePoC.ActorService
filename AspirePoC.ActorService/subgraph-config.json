@@ -1,0 +1,7 @@
+{
+  "subgraph": "aspirepoc-actorservice",
+  "http": {
+    "baseAddress": "http://localhost:5095/graphql",
+    "clientName": "http"
+  }
+}

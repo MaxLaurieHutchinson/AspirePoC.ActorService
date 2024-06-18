@@ -3,6 +3,6 @@
 [QueryType]
 public static class Query
 {
-    public static Book GetBook()
-        => new Book("C# in depth.", new Author("Jon Skeet"));
+    public static Actor GetActor()
+    => new Actor("Tom Cruise", new DateTime(1962, 7, 3));
 }
